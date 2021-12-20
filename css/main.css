@@ -1,0 +1,69 @@
+body {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(241, 241, 241);
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  font-size: 16px;
+  color: #000;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1 {
+  font-family: 'Montserrat', serif;
+  font-weight: 800;
+  font-size: 48px;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Montserrat', serif;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+h1,h2 {
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 1.5;
+  font-weight: normal;
+  letter-spacing: 0.05em;
+}
+
+.container {
+  max-width: 1280px;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 0 auto;
+}
+
+.btn-login {
+  font-size: 16px;
+  font-weight: bold;
+  color: #2400FF;
+}
+
+.btn {
+  background-color: #2400FF;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  padding: 16px 16px;
+  border-radius: 6px;
+}
+
+.btn-longer {
+  padding: 16px 50px;
+}
+
+section {
+  margin-bottom: 80px;
+}

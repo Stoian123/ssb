@@ -1,0 +1,35 @@
+.team {
+  margin-bottom: 100px;
+}
+
+.team__inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  /* background-color: #fff; */
+}
+
+.team__media {
+
+}
+
+.team__media-img {
+  max-height: 600px;
+}
+
+.team__content {
+  width: 40%;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  -webkit-box-align: center;
+}
+
+.team__content-title {
+  text-align: left;
+}
+
+.team__content-text {
+
+}
